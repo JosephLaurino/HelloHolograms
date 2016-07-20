@@ -1,6 +1,8 @@
 # HelloHolograms
 playing with HoloLens
 
+![screenshot](https://github.com/JosephLaurino/HelloHolograms/blob/dev/HoloLensEmulator.PNG "screenshot")
+
 * followed tutorial from https://developer.microsoft.com/en-us/windows/holographic/holograms_100 
 * gitignore from https://github.com/Microsoft/GalaxyExplorer/blob/master/.gitignore
 
